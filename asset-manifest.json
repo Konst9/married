@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/married/static/css/main.68f47dfc.css",
-    "main.js": "/married/static/js/main.33028d92.js",
-    "static/js/453.4a982d84.chunk.js": "/married/static/js/453.4a982d84.chunk.js",
+    "main.css": "/married/static/css/main.735ef1bc.css",
+    "main.js": "/married/static/js/main.49be2b07.js",
+    "static/js/453.628b08f4.chunk.js": "/married/static/js/453.628b08f4.chunk.js",
     "static/media/start_img.jpg": "/married/static/media/start_img.a3f76abdedf2e68f7fba.jpg",
+    "static/media/dima.jpg": "/married/static/media/dima.98c00343e5ace40b36e3.jpg",
+    "static/media/vika.jpg": "/married/static/media/vika.4925aa4d91cb85afedd5.jpg",
+    "static/media/kris.jpg": "/married/static/media/kris.e70e536ddb325746411b.jpg",
+    "static/media/geka.jpg": "/married/static/media/geka.0f7384892a9724fae5e0.jpg",
+    "static/media/polina.jpg": "/married/static/media/polina.d6fe0d981b588e4819bc.jpg",
     "index.html": "/married/index.html",
-    "main.68f47dfc.css.map": "/married/static/css/main.68f47dfc.css.map",
-    "main.33028d92.js.map": "/married/static/js/main.33028d92.js.map",
-    "453.4a982d84.chunk.js.map": "/married/static/js/453.4a982d84.chunk.js.map"
+    "main.735ef1bc.css.map": "/married/static/css/main.735ef1bc.css.map",
+    "main.49be2b07.js.map": "/married/static/js/main.49be2b07.js.map",
+    "453.628b08f4.chunk.js.map": "/married/static/js/453.628b08f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68f47dfc.css",
-    "static/js/main.33028d92.js"
+    "static/css/main.735ef1bc.css",
+    "static/js/main.49be2b07.js"
   ]
 }
