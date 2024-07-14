@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/married/static/css/main.68f47dfc.css",
+    "main.js": "/married/static/js/main.33028d92.js",
+    "static/js/453.4a982d84.chunk.js": "/married/static/js/453.4a982d84.chunk.js",
+    "static/media/start_img.jpg": "/married/static/media/start_img.a3f76abdedf2e68f7fba.jpg",
+    "index.html": "/married/index.html",
+    "main.68f47dfc.css.map": "/married/static/css/main.68f47dfc.css.map",
+    "main.33028d92.js.map": "/married/static/js/main.33028d92.js.map",
+    "453.4a982d84.chunk.js.map": "/married/static/js/453.4a982d84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f47dfc.css",
+    "static/js/main.33028d92.js"
+  ]
+}
