@@ -57,7 +57,7 @@ const Guests = () => {
             src={guest.src}
             sx={{ width: 80, height: 80, marginBottom: 1 }}
           />
-          <Typography variant="caption">{guest.name}</Typography>
+          <Typography variant="caption" sx={{ fontFamily: 'Snell Roundhand, cursive' }}>{guest.name}</Typography>
         </Box>
       ))}
     </Box>
