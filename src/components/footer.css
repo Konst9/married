@@ -1,0 +1,14 @@
+.footer_wrapper {
+    padding: 20px;
+    font-family: Snell Roundhand, cursive;
+    color: white;
+    background-color: teal;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer_wrapper a {
+    color: white;
+}

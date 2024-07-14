@@ -6,6 +6,7 @@ import React from "react";
 import Start from "./components/start";
 import Point from "./components/point";
 import Thing from "./components/thing";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Guests/>
       <Thing />
       <Point />
+      <Footer />
     </div>
   );
 }
