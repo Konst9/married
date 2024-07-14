@@ -1,23 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from "./components/header";
+import Guests from "./components/guests";
+import Plan from "./components/plan";
+import React from "react";
+import Start from "./components/start";
+import Point from "./components/point";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/*<Header/>*/}
+      <Start />
+      <Plan/>
+      <h1 style={{
+        fontFamily: 'Snell Roundhand, cursive',
+        color: 'teal',
+      }}>
+        Гости
+      </h1>
+      <Guests/>
+      <Point />
     </div>
   );
 }
