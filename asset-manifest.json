@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/married/static/css/main.902ffd8b.css",
-    "main.js": "/married/static/js/main.5875f175.js",
+    "main.css": "/married/static/css/main.8cf74024.css",
+    "main.js": "/married/static/js/main.5ad376ba.js",
     "static/js/453.628b08f4.chunk.js": "/married/static/js/453.628b08f4.chunk.js",
     "static/media/start_img.jpg": "/married/static/media/start_img.a3f76abdedf2e68f7fba.jpg",
     "static/media/sasha.jpg": "/married/static/media/sasha.6453f139be29b39173a5.jpg",
+    "static/media/toyoda.jpg": "/married/static/media/toyoda.87fe136563d779a9d2d9.jpg",
     "static/media/boris.jpg": "/married/static/media/boris.f2cb352d875d51ee797f.jpg",
     "static/media/dima.jpg": "/married/static/media/dima.98c00343e5ace40b36e3.jpg",
     "static/media/vika.jpg": "/married/static/media/vika.4925aa4d91cb85afedd5.jpg",
     "static/media/kris.jpg": "/married/static/media/kris.e70e536ddb325746411b.jpg",
     "static/media/we.jpg": "/married/static/media/we.084d980d52eca13a1b26.jpg",
-    "static/media/geka.jpg": "/married/static/media/geka.0f7384892a9724fae5e0.jpg",
+    "static/media/geka.jpg": "/married/static/media/geka.199e538558ad9f8ff1ab.jpg",
+    "static/media/viktor.jpg": "/married/static/media/viktor.682a01d6dcc63123fac4.jpg",
     "static/media/polina.jpg": "/married/static/media/polina.d6fe0d981b588e4819bc.jpg",
     "static/media/yakov.jpg": "/married/static/media/yakov.e7724ff208a0bd4f1e3f.jpg",
     "index.html": "/married/index.html",
-    "main.902ffd8b.css.map": "/married/static/css/main.902ffd8b.css.map",
-    "main.5875f175.js.map": "/married/static/js/main.5875f175.js.map",
+    "main.8cf74024.css.map": "/married/static/css/main.8cf74024.css.map",
+    "main.5ad376ba.js.map": "/married/static/js/main.5ad376ba.js.map",
     "453.628b08f4.chunk.js.map": "/married/static/js/453.628b08f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.902ffd8b.css",
-    "static/js/main.5875f175.js"
+    "static/css/main.8cf74024.css",
+    "static/js/main.5ad376ba.js"
   ]
 }
