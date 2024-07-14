@@ -1,10 +1,13 @@
 .thing_wrapper {
-    margin: 20px;
+    padding: 20px;
     font-family: Snell Roundhand, cursive;
-    color: teal;
+    color: white;
+    background-color: teal;
+    text-align: left;
+
 }
 
-.thing_wrapper ol {
+.thing_wrapper ul {
     padding-left: 20px; /* Отступ слева для каждого элемента списка */
     text-align: left; /* Выравнивание текста в списке по левому краю */
 }

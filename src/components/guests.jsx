@@ -11,18 +11,21 @@ import yakov from '../img/mar/yakov.jpg';
 import sasha from '../img/mar/sasha.jpg';
 import boris from '../img/mar/boris.jpg';
 import we from '../img/mar/we.jpg';
+import viktor from '../img/mar/viktor.jpg';
+import toyoda from '../img/mar/toyoda.jpg';
 
 const guests = [
-  { name: 'Константин Наталия', src: we },
-  { name: 'Никита Кристина', src: kris },
-  { name: 'Борис Татьяна', src: boris },
-  { name: 'Виктория Денис', src: vika },
-  { name: 'Евгений', src: geka },
-  { name: 'Виктор Мария', src: '/static/images/avatar/1.jpg' },
-  { name: 'Яков', src: yakov },
-  { name: 'Дмитрий', src: dima },
-  { name: 'Полина', src: polina },
-  { name: 'Александр Дарья', src: sasha },
+  { name: 'Тереховы', src: we },
+  { name: 'Петровы', src: kris },
+  { name: 'Московниковы', src: boris },
+  { name: 'Дудуновы', src: vika },
+  { name: 'Ситюковы', src: sasha },
+  { name: 'Колпаковы', src: geka },
+  { name: 'Красовские', src: viktor },
+  { name: 'Медведев', src: yakov },
+  { name: 'Шувалов', src: dima },
+  { name: 'Сушкевич', src: polina },
+  { name: 'Тойода', src: toyoda },
 ];
 
 const Guests = () => {
@@ -46,6 +49,7 @@ const Guests = () => {
             maxWidth: '80px', // Ширина блока
             flexBasis: '20%', // Базовая ширина для респонсивности
             marginBottom: 2,
+            fontFamily: 'Snell Roundhand, cursive',
           }}
         >
           <Avatar
