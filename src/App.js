@@ -5,6 +5,7 @@ import Plan from "./components/plan";
 import React from "react";
 import Start from "./components/start";
 import Point from "./components/point";
+import Thing from "./components/thing";
 
 function App() {
   return (
@@ -12,13 +13,14 @@ function App() {
       {/*<Header/>*/}
       <Start />
       <Plan/>
-      <h1 style={{
+      <h3 style={{
         fontFamily: 'Snell Roundhand, cursive',
         color: 'teal',
       }}>
         Гости
-      </h1>
+      </h3>
       <Guests/>
+      <Thing />
       <Point />
     </div>
   );

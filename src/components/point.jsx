@@ -4,7 +4,7 @@ import './point.css';
 const Point = () => {
   return (
     <div className='point_wrapper'>
-      <h1>Как добраться</h1>
+      <h3>Как добраться</h3>
       <div className="adress">
         <span>Вводите в Яндекс навигаторе адрес:</span>
         <ul>
